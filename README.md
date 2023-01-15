@@ -1,2 +1,2 @@
-# testAppRiotWeb
-Testar boas práticas de Cypress com a aplicação da Riot
+# testAppAmericanas
+Testar boas práticas de Cypress com a aplicação da Americanas
